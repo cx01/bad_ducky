@@ -1,5 +1,9 @@
 # Bad Ducky
 
+
+https://ducktoolkit.com/
+
+
 ## Summary 
 Bad Ducky is yet another [Rubber Ducky](https://hakshop.com/products/usb-rubber-ducky-deluxe) clone. It is based on CJMCU BadUsb (ATMEGA32u4 - Arduino Leonardo clone) board with onboard card reader, which you can buy on ebay or [aliexpress](
 https://www.aliexpress.com/item/CJMCU-Virtual-Keyboard-Badusb-USB-TF-Memory-Keyboard-ATMEGA32U4/32815828963.html?spm=a2g0s.9042311.0.0.mhzoBn). My goal was to create something compatible with Rubber Ducky scripts, while having ability to easily choose which script to execute without modifying the hardware (without adding DIP switches).
